@@ -29,6 +29,6 @@ plugins/LoginSecurity/database*
 plugins/LoginSecurity/*.db*
 plugins/LuckPerms/libs
 plugins/LuckPerms/translations
-plugins/LuckPerms/*.mv
+plugins/LuckPerms/*.mv.*
 plugins/MobArena/inventories
 plugins/MobArena/items
