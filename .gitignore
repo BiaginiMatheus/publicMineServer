@@ -3,15 +3,21 @@ eula.txt
 
 # Log file
 *.log
+logs
 
-# Libraries
-bundler
+# Server configs
+banned-ips.json
+banned-players.json
+ops.json
+permissions.yml
+usercache.json
+whitelist.json
 
-# Mobile Tools for Java (J2ME)
-
+# Worlds
+jenniWorldOnline*
 
 # Package Files #
-
+bundler
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
