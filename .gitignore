@@ -22,3 +22,13 @@ bundler
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Plugins data
+plugins/bStats
+plugins/LoginSecurity/database*
+plugins/LoginSecurity/*.db*
+plugins/LuckPerms/libs
+plugins/LuckPerms/translations
+plugins/LuckPerms/*.mv
+plugins/MobArena/inventories
+plugins/MobArena/items
